@@ -15,4 +15,3 @@ function logWhisper(string) {
   var string = string.toLowerCase();
   console.log(string)
 }
-
